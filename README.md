@@ -14,7 +14,7 @@ I'm a **Web Development enthusiast** and a **Mechanical Engineering student at I
 - **Frontend**: HTML | CSS | JavaScript | React | Tailwind CSS | Figma
 - **Backend(learning) **: Node.js | Express.js | MongoDB
 - **Tools & Platforms**: Git | GitHub | VS code
-- 
+  
 ### ⚡ Fun Fact
 I intentionally avoid distractions like social media (no Insta, no reels). YouTube is just for **podcasts** and **learning**.
 
