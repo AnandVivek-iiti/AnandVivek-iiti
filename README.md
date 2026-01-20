@@ -1,4 +1,3 @@
-
 # Hi, I'm Anand Vivek 👋
 
 <p align="center">
@@ -20,10 +19,9 @@ Currently working as **ML Intern at IITI DRISHTI**, developing machine learning 
 
 ---
 
-
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/AnandVivek-iiti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anandvivek1223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/anandvivek1223/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -32,7 +30,6 @@ Currently working as **ML Intern at IITI DRISHTI**, developing machine learning 
 </p>
 
 ---
-
 
 ## 🛠 Tech Stack
 
@@ -70,25 +67,24 @@ Currently working as **ML Intern at IITI DRISHTI**, developing machine learning 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-
 ## 🚀 Projects
 
-### 🧬 [BioCrats Alumni & Events Platform](https://github.com/AnandVivek-iiti.biocrats)
+### 🧬 [BioCrats Alumni & Events Platform](https://github.com/AnandVivek-iiti/biocrats)
 Full-stack alumni and events website with JWT auth, Cloudinary integration, and admin workflows.  
 **Tech:** MERN Stack, JWT, Cloudinary
 
-### 🔧 [SIC Portal - Sophisticated Instruments Center](https://github.com/AnandVivek-iiti/sic-iiti)
+### 🔧 [SIC Portal - Sophisticated Instruments Center](https://github.com/AnandVivek-iiti/SIC)
 Lab instrument booking system for Mechanical Engineering with role-based access and request management.  
 **Tech:** MERN Stack
 
-### 🌟 [DLSIC]([https://dlsic.onrender.com](https://github.com/AnandVivek-iiti/dlsic))
+### 🌟 [DLSIC Social Innovation Platform](https://github.com/AnandVivek-iiti/dlsic)
 Social innovation platform for community-driven solutions with collaboration tools and resource sharing.  
-**Tech:** MERN Stack
+**Tech:** MERN Stack | [Live Demo](https://dlsic.onrender.com)
 
 ---
 
@@ -129,16 +125,10 @@ Developing and maintaining official website
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnandVivek-iiti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVivek-iiti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -156,7 +146,6 @@ Developing and maintaining official website
 ✅ **Impact-focused** - building technology that solves real problems
 
 ---
-
 
 ## 📫 Let's Collaborate!
 
