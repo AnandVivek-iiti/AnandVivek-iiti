@@ -1,153 +1,102 @@
-<h1 align="center">
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, 
-  I'm Anand Vivek
-</h1>
-
-<h3 align="center">
-IIT Indore’28 | Full-Stack Developer (MERN) | ML Intern @ IITI DRISHTI (SIDDHI 4.0)
-</h3>
+# Hi, I'm Anand Vivek 👋
 
 <p align="center">
-  <a href="https://github.com/AnandVivek-iiti">GitHub</a> •
-  <a href="https://www.linkedin.com/in/anandvivek1223/">LinkedIn</a> •
-  <a href="https://dlsic.onrender.com">Portfolio</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);ML+Intern+%40+IITI+DRISHTI;IIT+Indore+B.Tech+Student;GSoC+2026+Aspirant" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎓 About Me
 
-I am a **B.Tech Mechanical Engineering undergraduate at IIT Indore (2024–2028)** with strong interests in **full-stack development, internal tools, dashboards, and applied machine learning**.
+I’m a **B.Tech Mechanical Engineering (’28)** student at **IIT Indore**, actively working in **full-stack development (MERN)** and **applied machine learning**.
 
-I actively build and maintain **production-grade MERN applications** used by student bodies and campus organizations, while also exploring **data-driven ML systems for real-world problems**.
+Currently, I’m an **ML Intern at IITI DRISHTI (SIDDHI 4.0)**, where I build predictive models on real clinical datasets. Alongside this, I develop and maintain **production web systems** used by multiple IIT Indore bodies.
 
-Currently, I am working as an **ML Project Intern at IITI DRISHTI (SIDDHI 4.0)**, focusing on predictive modeling using real clinical and survey datasets.
-
-> I aim to contribute to open-source and impact-driven tech where engineering rigor matters more than hype.
+I enjoy working on **long-lived codebases**, internal tools, and systems that serve real users.
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Current Focus
 
-### Languages
-- JavaScript  
-- C++
-
-### Frontend
-- React.js  
-- HTML5, CSS3  
-- Tailwind CSS, Bootstrap  
-- Vite  
-
-### Backend
-- Node.js  
-- Express.js  
-
-### Database & Storage
-- MongoDB  
-- MySQL (basic)  
-- Cloudinary  
-
-### Tools & Practices
-- Git & GitHub  
-- REST APIs  
-- JWT Authentication  
-- Admin workflows  
-- Responsive design  
-- Deployment: Vercel, Render  
+- ML models for **dental-implant failure prediction**
+- Full-stack systems with **authentication, admin workflows, and deployment**
+- Preparing for **GSoC 2026** and **SDE / Web Dev Internships (2026)**
 
 ---
 
-## 🚀 Key Projects
+## 🛠 Tech Stack (Relevant)
 
-### 🔹 BioCrats – Alumni & Events Platform
-**MERN Stack | JWT Auth | Cloudinary | Admin Workflow**
-
-- Built a **full-fledged alumni and events platform** for the BioCrats club
-- Implemented **secure authentication**, media uploads, and admin-level content control
-- Designed for scalability and real organizational use
-
----
-
-### 🔹 SIC Portal – Mechanical Engineering Department
-**Instrument Booking & Management System**
-
-- Led development of a **Sophisticated Instruments Center (SIC)** portal
-- Features include instrument catalog, role-based access, booking requests, and approvals
-- Actively used within the Mechanical Engineering department
+**Languages:** JavaScript, Python, C++  
+**Frontend:** React, Vite, Tailwind, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**ML:** scikit-learn, Pandas, NumPy  
+**Infra:** Cloudinary, Vercel, Render  
+**Practices:** REST APIs, JWT Auth, Git, Code Refactoring
 
 ---
 
-### 🔹 Centralized Campus Announcement System
-**React + Backend APIs**
+## 💼 Experience
 
-- Built a centralized system for campus-wide announcements
-- Focused on clarity, accessibility, and fast iteration
-
----
-
-### 🔹 DLSIC
-🌐 https://dlsic.onrender.com  
-
-A **social-impact-focused MERN platform** designed around collaboration, feedback, and community-driven problem solving.
-
----
-
-## 🤖 Machine Learning Experience
-
-### ML Intern — **IITI DRISHTI CPS Foundation (SIDDHI 4.0)**  
+### ML Intern — IITI DRISHTI CPS Foundation (SIDDHI 4.0)
 **Nov 2025 – Present**
+- Built ML models to predict **dental implant failure**
+- Worked with **clinical, surgical, prosthetic, and survey datasets**
+- Heavy focus on **feature engineering, data cleaning**
+- Model evaluation driven by **Recall & AUC**, not just accuracy
 
-- Developed ML models to **predict dental implant failure**
-- Worked with **clinical, surgical, prosthetic, and national survey datasets**
-- Performed extensive **data cleaning and feature engineering**
-- Evaluated models using **Recall and AUC**, prioritizing real-world impact over raw accuracy
+### Web Developer — Training & Placement Cell, IIT Indore
+**Aug 2025 – Present**
+- Refactored backend code to improve stability and maintainability
+- Simplified content updates for non-technical users
+- Worked on an existing production codebase
 
-This experience strengthened my understanding of:
-- messy real datasets
-- metric-driven model evaluation
-- ML as an engineering tool, not just theory
-
----
-
-## 🧠 Interests (Relevant for GSoC)
-
-- Full-stack development for real users  
-- Internal tools & dashboards  
-- Applied ML for real-world decision systems  
-- Open-source collaboration  
-- Clean, maintainable codebases  
+### Web Developer — TEDxIITIndore
+**Oct 2025 – Present**
+- Developing and maintaining the official event website
+- Coordinating with organizers for iterative updates
 
 ---
 
-## 🏆 Leadership & Campus Roles
+## 🚀 Selected Projects
 
-- **Web Developer** — TEDxIITIndore  
-- **Web Developer** — Training & Placement Cell (TPC), IIT Indore  
-- **PR & Outreach Coordinator** — FLUXUS, IIT Indore  
-- **Core Member** — BioCrats Club  
-- **Core Member** — Prakriti Wildlife Club  
-- **Volunteer** — Programming Club, IIT Indore  
-- **Member** — Student Dining Committee, IIT Indore  
+### BioCrats Alumni & Events Platform (MERN)
+- Alumni + events platform with **JWT auth & admin workflows**
+- Cloudinary-based media handling
+- Built for real organizational use, not demos
 
-These roles exposed me to **production constraints, stakeholder feedback, and long-term maintenance**—not just hackathon code.
+### SIC Portal — Mechanical Engineering Dept.
+- Instrument booking & management system
+- Role-based access and approval workflows
+- Actively used by department stakeholders
+
+### DLSIC — Social Innovation Platform
+- Community-driven platform for problem-solving
+- Focus on collaboration, feedback, and real users
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I Bring (GSoC / Internships)
+
+- Experience with **production systems used by real users**
+- Comfortable reading, refactoring, and extending **existing codebases**
+- ML experience grounded in **messy, real-world data**
+- Strong ownership mindset — build, deploy, maintain
+
+---
+
+## 🎯 Open To
+
+- **Google Summer of Code (GSoC) 2026**
+- **SDE / Full-Stack Internships (2026)**
+- Serious open-source collaborations
+
+📧 anand1234.vivek@gmail.com  
+🔗 https://www.linkedin.com/in/anandvivek1223  
+🌐 https://dlsic.onrender.com
+
+---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVivek-iiti&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVivek-iiti&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandVivek-iiti&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📌 Looking For
-
-- **GSoC 2026** opportunities  
-- **SDE / Web Development Internships (2026)**  
-- Serious open-source and long-term dev collaborations  
-
-If your project values **ownership, real users, and clean engineering**, I’d like to contribute.
