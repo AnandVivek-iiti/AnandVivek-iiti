@@ -1,25 +1,25 @@
+
 # Hi, I'm Anand Vivek 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(MERN);Machine+Learning+Enthusiast;IIT+Indore+B.Tech+Student;Building+Tech+for+Social+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;IIT+Indore+'28;Building+Tech+for+Impact" alt="Typing SVG" />
 </p>
 
 ## 🎓 About Me
 
-I'm a **second-year B.Tech Mechanical Engineering** student at **IIT Indore '28**, passionate about building **full-stack solutions** and exploring the intersection of **software + data**. Currently working as an **ML Intern at IITI DRISHTI (SIDDHI 4.0)**, developing machine learning models for real-world healthcare applications.
+Second-year **B.Tech Mechanical Engineering** student at **IIT Indore**, passionate about building full-stack solutions and exploring the intersection of software and data.
 
-I build full-stack (MERN) products for **TPC, BioCrats, SIC, TEDxIITIndore**, and actively contribute to multiple technical and social initiatives at IIT Indore.
+Currently working as **ML Intern at IITI DRISHTI**, developing machine learning models for healthcare applications. I build production apps for TPC, BioCrats, SIC, and TEDxIITIndore.
 
-> **"You are an IITian; you cannot afford to be ordinary."**  
-> This philosophy drives me to create technology that solves real problems and uplifts communities.
+> *"You are an IITian; you cannot afford to be ordinary."*
 
 ### 🎯 Currently
-- 🔭 Working on **ML models for predicting dental-implant failure** using clinical & surgical datasets
-- 🌱 Learning **Machine Learning, Data Science, and Advanced Web Development**
-- 👯 Looking for **SDE / Web Dev internships (2026)** and **GSoC opportunities**
-- 💡 Exploring **internal tools, dashboards, and ML for real-world problems**
+- 🔭 Building ML models for predicting dental-implant failure
+- 🌱 Learning Machine Learning, Data Science, and Advanced Web Dev
+- 💼 Looking for **SDE internships (Summer 2026)** and **open-source collaborations**
 
 ---
+
 
 ## 🤝 Connect with Me
 
@@ -32,6 +32,7 @@ I build full-stack (MERN) products for **TPC, BioCrats, SIC, TEDxIITIndore**, an
 </p>
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -74,57 +75,33 @@ I build full-stack (MERN) products for **TPC, BioCrats, SIC, TEDxIITIndore**, an
 
 ---
 
-## 💼 Experience
 
-### 🔬 ML Intern @ IITI DRISHTI CPS FOUNDATION (SIDDHI 4.0)
-**Nov 2025 - Present**
-- Developing **Machine Learning models** to predict dental-implant failure using clinical, surgical, prosthetic, and national survey datasets
-- Performed extensive **feature engineering and data cleaning** across multiple data sources
-- Prioritized model evaluation based on **high-impact metrics** like Recall and AUC
-- **Tech:** Python, Scikit-learn, Pandas, NumPy
+## 🚀 Projects
 
-### 💻 Web Developer @ Training & Placement Cell, IIT Indore
-**Aug 2025 - Present**
-- Fixed backend issues and **refactored codebase** to improve stability
-- Streamlined content updates for the TPC team
-- **Tech:** MERN Stack, Git
+### 🧬 [BioCrats Alumni & Events Platform](https://github.com/AnandVivek-iiti.biocrats)
+Full-stack alumni and events website with JWT auth, Cloudinary integration, and admin workflows.  
+**Tech:** MERN Stack, JWT, Cloudinary
 
-### 🎤 Web Developer @ TEDxIITIndore
-**Oct 2025 - Present**
-- Developing and maintaining the official TEDx website
-- **Tech:** React, Node.js, Express, MongoDB
+### 🔧 [SIC Portal - Sophisticated Instruments Center](https://github.com/AnandVivek-iiti/sic-iiti)
+Lab instrument booking system for Mechanical Engineering with role-based access and request management.  
+**Tech:** MERN Stack
+
+### 🌟 [DLSIC]([https://dlsic.onrender.com](https://github.com/AnandVivek-iiti/dlsic))
+Social innovation platform for community-driven solutions with collaboration tools and resource sharing.  
+**Tech:** MERN Stack
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🧬 [BioCrats Alumni & Events Platform](https://github.com/AnandVivek-iiti)
-**Full-Stack MERN Application** | Sept - Nov 2025
-- Designed and deployed official **alumni and events website** for BioCrats Club
-- Implemented **JWT authentication** for secure user management
-- Integrated **Cloudinary** for blog uploads and media management
-- Built **admin workflow** for content moderation and event management
-- **Tech:** MongoDB, Express.js, React.js, Node.js, Cloudinary, JWT
+**ML Intern** @ IITI DRISHTI (Nov 2025 - Present)  
+Building ML models to predict dental-implant failure using clinical datasets
 
-### 🔧 [SIC Portal - Sophisticated Instruments Center](https://github.com/AnandVivek-iiti)
-**Booking & Management System** | Sept - Nov 2025
-- Led development of portal for **managing lab instruments and bookings** for Mechanical Engineering department
-- Created **instrument catalog** with role-based access control
-- Implemented **request management system** for equipment bookings
-- **Tech:** MERN Stack, MongoDB, Express, React, Node.js
+**Web Developer** @ Training & Placement Cell, IIT Indore (Aug 2025 - Present)  
+Backend refactoring and stability improvements
 
-### 🌟 [DLSIC - Social Innovation Platform](https://dlsic.onrender.com)
-**Community-Driven Solution Platform**
-- Built platform to tackle **social challenges** through community collaboration
-- Features: collaboration tools, resource sharing, real-user feedback
-- Focused on **technology for social good**
-- **Tech:** MongoDB, Express.js, React.js, Node.js
-
-### 📢 Campus Announcement System
-**Centralized Communication Tool**
-- Developed **centralized announcement system** for campus-wide communications
-- Deployed on Render with responsive React frontend
-- **Tech:** React, Node.js, Render
+**Web Developer** @ TEDxIITIndore (Oct 2025 - Present)  
+Developing and maintaining official website
 
 ---
 
@@ -153,6 +130,7 @@ I build full-stack (MERN) products for **TPC, BioCrats, SIC, TEDxIITIndore**, an
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -169,34 +147,16 @@ I build full-stack (MERN) products for **TPC, BioCrats, SIC, TEDxIITIndore**, an
 
 ---
 
-## 🎓 Education
+## 🎯 Why Work With Me?
 
-**Indian Institute of Technology, Indore**  
-Bachelor of Technology - Mechanical Engineering | 2024 - 2028  
-- Exploring interdisciplinary work in **Software Development + ML/Data Science**
-
----
-
-## 💡 What Drives Me
-
-I believe that being at IIT comes with a responsibility to **innovate, lead, and contribute meaningfully to society**. My work is shaped by the conviction that technology is a tool for social good—every line of code I write is aimed at creating lasting, positive impact.
-
-### My Approach
-- 🎯 **Impact-driven development** over technical showmanship
-- 🤝 **Collaborative mindset** - 8+ active technical roles
-- 📚 **Continuous learning** - From Mechanical Engineering to Full-Stack + ML
-- 🌍 **Social responsibility** - Technology should uplift communities
+✅ **5+ production apps** deployed and actively used  
+✅ **Full-stack expertise** with MERN + deployment experience  
+✅ **ML/Data Science** skills with real-world datasets  
+✅ **Fast learner** - self-taught development while pursuing Mechanical Engineering  
+✅ **Impact-focused** - building technology that solves real problems
 
 ---
 
-## 🔍 Open For
-
-- 🌟 **Google Summer of Code (GSoC) 2026**
-- 💼 **SDE / Full-Stack Developer Internships (Summer 2026)**
-- 🤝 **Open Source Collaborations**
-- 🚀 **Serious Dev Projects** with social impact
-
----
 
 ## 📫 Let's Collaborate!
 
